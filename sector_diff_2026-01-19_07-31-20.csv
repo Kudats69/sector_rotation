@@ -1,0 +1,138 @@
+Industry,Sector_old,Pct_Week_old,Sector_new,Pct_Week_new,Pct_Week_Diff
+Electronic Equipment,Industrials,-0.84,Industrials,8.07,8.91
+Electronic & Electrical Equip,Industrials,-1.85,Industrials,6.62,8.47
+Electrical Comps & Equip,Industrials,-2.32,Industrials,5.93,8.25
+Heavy Construction,Industrials,0.06,Industrials,7.83,7.7700000000000005
+Toys,Consumer Goods,-2.69,Consumer Goods,4.61,7.300000000000001
+Steel,Basic Materials,-2.07,Basic Materials,5.14,7.209999999999999
+Drug Retailers,Consumer Services,-1.49,Consumer Services,5.68,7.17
+Food & Drug Retailers,Consumer Services,-0.79,Consumer Services,6.14,6.93
+Leisure Goods,Consumer Goods,-2.13,Consumer Goods,4.69,6.82
+Food Retailers & Wholesalers,Consumer Services,-0.24,Consumer Services,6.49,6.73
+Telecom Equipment,Technology,-2.86,Technology,3.14,6.0
+Tobacco,Consumer Goods,1.15,Consumer Goods,6.93,5.779999999999999
+Water,Utilities,-1.53,Utilities,4.11,5.640000000000001
+Pipelines,Oil & Gas,-2.22,Oil & Gas,3.38,5.6
+Multiutilities,Utilities,-1.36,Utilities,3.95,5.3100000000000005
+Real Estate Services,Financials,-0.25,Financials,4.71,4.96
+Real Estate Investmt & Svcs,Financials,-0.25,Financials,4.71,4.96
+Gas Distribution,Utilities,-1.36,Utilities,2.65,4.01
+Residential REITs,Financials,-1.22,Financials,2.63,3.8499999999999996
+Specialty REITs,Financials,1.01,Financials,4.6,3.59
+Diversified REITs,Financials,2.53,Financials,5.65,3.1200000000000006
+Real Estate,Financials,0.73,Financials,3.75,3.02
+Real Estate Inv Trusts,Financials,0.81,Financials,3.67,2.86
+Railroads,Industrials,-1.55,Industrials,1.26,2.81
+Computer Hardware,Technology,-3.57,Technology,-0.92,2.65
+Electricity,Utilities,-1.38,Utilities,1.26,2.6399999999999997
+Conventional Electricity,Utilities,-1.36,Utilities,1.22,2.58
+Distillers & Vintners,Consumer Goods,3.02,Consumer Goods,5.47,2.4499999999999997
+Technology Hardware & Equip,Technology,-0.91,Technology,1.19,2.1
+Aerospace,Industrials,2.08,Industrials,4.16,2.08
+Retail REITs,Financials,1.05,Financials,2.85,1.8
+Food Products,Consumer Goods,0.61,Consumer Goods,2.38,1.77
+Nondurable Hshld Pdts,Consumer Goods,0.77,Consumer Goods,2.32,1.5499999999999998
+Semiconductor,Technology,0.57,Technology,2.07,1.5
+Food Producers,Consumer Goods,1.53,Consumer Goods,2.89,1.36
+"Oil Equip, Svcs & Distri",Oil & Gas,1.98,Oil & Gas,3.24,1.2600000000000002
+General Retailers,Consumer Goods,1.71,Consumer Goods,2.91,1.2000000000000002
+Mortgage REITs,Financials,2.63,Financials,3.74,1.1100000000000003
+Integrated Oil & Gas,Oil & Gas,2.42,Oil & Gas,3.48,1.06
+Food & Beverage,Consumer Goods,1.08,Consumer Goods,2.1,1.02
+Industrial & Office REITs,Financials,1.05,Financials,2.0,0.95
+Beverages,Consumer Goods,0.88,Consumer Goods,1.74,0.86
+Soft Drinks,Consumer Goods,0.78,Consumer Goods,1.57,0.79
+Aerospace & Defense,Industrials,3.79,Industrials,4.57,0.7800000000000002
+Pharmaceuticals,Health Care,-0.13,Health Care,0.49,0.62
+Medical Supplies,Health Care,1.14,Health Care,1.73,0.5900000000000001
+Oil & Gas Producers,Oil & Gas,1.85,Oil & Gas,2.32,0.46999999999999975
+Fixed Line Telecom,Telecommunications,-2.19,Telecommunications,-1.93,0.26
+Brewers,Consumer Goods,1.54,Consumer Goods,1.7,0.15999999999999992
+Industrial Metals & Mining,Basic Materials,3.55,Basic Materials,3.66,0.11000000000000032
+Industrial Goods & Svcs,Industrials,3.07,Industrials,3.14,0.07000000000000028
+Asset Managers,Financials,2.13,Financials,2.19,0.06000000000000005
+Investment Services,Financials,2.15,Financials,2.18,0.03000000000000025
+Commercial Vehicles,Industrials,4.51,Industrials,4.36,-0.14999999999999947
+Diversified Industrials,Industrials,4.34,Industrials,4.09,-0.25
+Personal Products,Consumer Goods,2.08,Consumer Goods,1.74,-0.3400000000000001
+Construction & Materials,Industrials,2.1,Industrials,1.67,-0.43000000000000016
+Industrial Engineering,Industrials,4.02,Industrials,3.58,-0.4399999999999995
+Exploration & Production,Oil & Gas,1.0,Oil & Gas,0.54,-0.45999999999999996
+Hotel & Lodging REITs,Financials,1.54,Financials,0.81,-0.73
+Industrial Machinery,Industrials,3.46,Industrials,2.68,-0.7799999999999998
+Hshld Goods & Home Constr,Consumer Goods,2.84,Consumer Goods,1.8,-1.0399999999999998
+Pharmaceuticals & Biotech,Health Care,0.46,Health Care,-0.62,-1.08
+Basic Resources,Basic Materials,5.92,Basic Materials,4.72,-1.2000000000000002
+Media Agencies,Consumer Services,-0.93,Consumer Services,-2.25,-1.3199999999999998
+Publishing,Consumer Services,1.45,Consumer Services,-0.01,-1.46
+Specialty Finance,Financials,0.44,Financials,-1.25,-1.69
+Waste & Disposal Svcs,Industrials,2.13,Industrials,0.37,-1.7599999999999998
+Restaurants & Bars,Consumer Services,2.81,Consumer Services,0.76,-2.05
+Industrial Transportation,Industrials,2.61,Industrials,0.49,-2.12
+General Industrials,Industrials,4.38,Industrials,2.17,-2.21
+General Retailers,Consumer Goods,1.71,Consumer Services,-0.57,-2.28
+Mining,Basic Materials,8.25,Basic Materials,5.92,-2.33
+Gold Mining,Basic Materials,8.05,Basic Materials,5.67,-2.380000000000001
+Specialty Chemicals,Basic Materials,4.26,Basic Materials,1.87,-2.3899999999999997
+Financial Serv Supersector,Financials,1.57,Financials,-0.98,-2.55
+Financial Serv Sector,Financials,1.57,Financials,-0.98,-2.55
+Reinsurance,Financials,-0.36,Financials,-2.98,-2.62
+Defense,Industrials,8.28,Industrials,5.57,-2.709999999999999
+Gambling,Consumer Services,-3.08,Consumer Services,-5.83,-2.75
+Durable Hshld Pdts,Consumer Goods,7.95,Consumer Goods,5.08,-2.87
+Biotechnology,Health Care,1.09,Health Care,-1.81,-2.9000000000000004
+Specialty Retailers,Consumer Services,2.02,Consumer Services,-0.9,-2.92
+Bldg Materials & Fixtures,Industrials,2.73,Industrials,-0.19,-2.92
+Apparel Retailers,Consumer Services,3.09,Consumer Services,-0.18,-3.27
+Property & Casualty,Financials,-0.44,Financials,-3.84,-3.4
+Specialized Consumer Svcs,Consumer Services,3.82,Consumer Services,0.39,-3.4299999999999997
+Chemicals,Basic Materials,4.36,Basic Materials,0.9,-3.4600000000000004
+Personal Goods,Consumer Goods,2.27,Consumer Goods,-1.2,-3.4699999999999998
+Life Insurance,Financials,0.75,Financials,-2.76,-3.51
+Nonlife Insurance,Financials,0.36,Financials,-3.17,-3.53
+Insurance,Financials,0.43,Financials,-3.1,-3.5300000000000002
+Recreational Products,Consumer Goods,9.83,Consumer Goods,6.23,-3.5999999999999996
+General Retailers,Consumer Services,6.52,Consumer Goods,2.91,-3.6099999999999994
+Automobiles,Consumer Goods,1.79,Consumer Goods,-1.94,-3.73
+Automobiles & Parts,Consumer Goods,1.97,Consumer Goods,-1.95,-3.92
+Clothing & Accessories,Consumer Goods,1.78,Consumer Goods,-2.17,-3.95
+Insurance Brokers,Financials,2.3,Financials,-1.69,-3.9899999999999998
+Health Care Providers,Health Care,2.17,Health Care,-1.86,-4.03
+Internet,Technology,2.9,Technology,-1.19,-4.09
+Media,Consumer Services,1.12,Consumer Services,-2.97,-4.09
+Hotels,Consumer Services,3.81,Consumer Services,-0.3,-4.11
+Commodity Chemicals,Basic Materials,4.46,Basic Materials,0.02,-4.44
+Computer Services,Technology,4.48,Technology,-0.02,-4.5
+Broadcast & Entertainment,Consumer Services,1.35,Consumer Services,-3.24,-4.59
+Industrial Suppliers,Industrials,7.61,Industrials,2.9,-4.710000000000001
+Nonferrous Metals,Basic Materials,8.86,Basic Materials,3.86,-5.0
+Containers & Packaging,Industrials,4.45,Industrials,-0.57,-5.0200000000000005
+Health Care Equip & Svcs,Health Care,2.64,Health Care,-2.45,-5.09
+Mobile Telecom,Telecommunications,0.08,Telecommunications,-5.01,-5.09
+Footwear,Consumer Goods,2.78,Consumer Goods,-2.48,-5.26
+Furnishings,Consumer Goods,6.32,Consumer Goods,1.01,-5.3100000000000005
+Banks,Financials,1.37,Financials,-3.97,-5.34
+Travel & Leisure,Consumer Services,2.98,Consumer Services,-2.4,-5.38
+Business Training,Industrials,1.86,Industrials,-3.63,-5.49
+Software & Computer Svcs,Technology,2.37,Technology,-3.31,-5.68
+Support Services,Industrials,5.53,Industrials,-0.31,-5.84
+Business Support Svcs,Industrials,6.71,Industrials,0.72,-5.99
+Home Improvement Retailers,Consumer Services,8.31,Consumer Services,2.31,-6.0
+Oil Equipment & Svcs,Oil & Gas,9.06,Oil & Gas,3.03,-6.030000000000001
+Retail,Consumer Services,6.15,Consumer Services,-0.25,-6.4
+Medical Equipment,Health Care,3.18,Health Care,-3.42,-6.6
+Delivery Svcs,Industrials,6.22,Industrials,-0.38,-6.6
+Consumer Finance,Financials,1.3,Financials,-5.46,-6.76
+General Retailers,Consumer Services,6.52,Consumer Services,-0.57,-7.09
+Software,Technology,1.83,Technology,-5.26,-7.09
+Travel & Tourism,Consumer Services,3.28,Consumer Services,-3.98,-7.26
+Trucking,Industrials,7.43,Industrials,0.14,-7.29
+Airlines,Consumer Services,4.75,Consumer Services,-2.57,-7.32
+Auto Parts,Consumer Goods,5.74,Consumer Goods,-2.1,-7.84
+Financial Administration,Industrials,4.66,Industrials,-3.37,-8.030000000000001
+Broadline Retailers,Consumer Services,7.58,Consumer Services,-1.02,-8.6
+Home Construction,Consumer Goods,8.96,Consumer Goods,-0.03,-8.99
+Mortgage Finance,Financials,8.98,Financials,-2.67,-11.65
+Marine Transportation,Industrials,12.13,Industrials,0.33,-11.8
+Recreational Services,Consumer Services,6.06,Consumer Services,-9.21,-15.27
+Aluminum,Basic Materials,12.61,Basic Materials,-5.65,-18.259999999999998
